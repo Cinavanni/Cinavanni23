@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Bowman",
+  "age": 60,
+  "address": {
+    "street": "Ezri Trail",
+    "city": "Hazkevur",
+    "state": "VT",
+    "zip": "15378"
+  },
+  "contact": {
+    "phone": "(518) 735-1544",
+    "servicePhone": "800739625"
+  },
+  "birthday": "1967-07-07T03:14:25.084Z",
+  "ip": "92.200.95.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Uddeoca wot ogaiti zadofuri zi neh fejejo cosifakaj zojav wamso nenrilo wehid jetek kot hubzi gehte sazadav riwida. Fumvekros gorsi izalapap uzi med zetwogna tenev agusvej mus bel ga bipowhec fa vig buc dul. Egkok lanom jotfosu gegut pomivula luz izesevjar pece jecri fimet hu ed oro get ir hametpi duguce kemevo. Belo som kewhonso ociovo halu ciji hu zi pud vurgug asavu eztik osuruf.",
+    "bio": "Dawzo rogeke fezebi roc raunotuf egiaz gum ebi we tecrotvo nued updarzor ibmirdon sol. Lu cuem le hegol fakko ituswav gobfed noconi ci suk emo midon pu te. Didke henbed peja te zi cidub zavfar licno il zokimade sowzevrag esiripu. Pito dajboli laplofpad ubujesoh zikujuv dalut hazlufo beh asub zid adlom ako afajatmip ce su koz zus zo. Gilwil haughib azzobhut ug ki potrabva lonfiggo cegno popgak megema lit abufarum mozudpoc kudso hedzod osmuuju waavu."
+  },
+  "apiKey": "eb97b0c9a8511b8fa17a9a2c0a76cd64ea184ee1c20aa67f565bfae815a3b1a1",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}

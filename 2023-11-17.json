@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Willis",
+  "age": 25,
+  "address": {
+    "street": "Hujes Parkway",
+    "city": "Geodouwe",
+    "state": "KS",
+    "zip": "32967"
+  },
+  "contact": {
+    "phone": "(527) 480-3815",
+    "servicePhone": "800674436"
+  },
+  "birthday": "1963-01-14T01:24:25.799Z",
+  "ip": "240.122.24.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuavuti ib vab mab giowna vamhi seenu ole duva vawmov kanihun obuesu jes kagernu. Ba imlo nu towref vakan hajfi ag tog pacukfut hiwob urudirpem rapudona ju piwnoczi guv rirvo. Em fupcu havoz mesen dofewfek hec lazwojom renilcap tul vif rir le momoheh mu is ceki.",
+    "bio": "Isozeta ig ec ile ban kevapu locceuv afejahon roesegoc cac koivzu zot wu bocelu idizob mug gokpih rocap. Ze mug nu rihsak joboz kune puwkoc cic dov he romawvi dusovzob. Kuvga padeko tovigo diuwuw motogedug tevcisuf givevefup ku pez perozmu nemi vibimoniv. Ombo imadummu so zi ha heg zebguhnas jugi sub ami gikbuchem posmefom tos. Vuf hopwo pu utawupof urij egobedhe omharbep kekite fofdiki loga ukwa pu kipvi wantelrav anuve jep."
+  },
+  "apiKey": "6645f9faabcbf89beb8ecacc82b55ec32f767cda44573e558ceb5401c70d7733",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}

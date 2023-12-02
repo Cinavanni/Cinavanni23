@@ -1,0 +1,26 @@
+{
+  "name": "Earl Barton",
+  "age": 44,
+  "address": {
+    "street": "Ocewo Heights",
+    "city": "Upbimo",
+    "state": "DE",
+    "zip": "69604"
+  },
+  "contact": {
+    "phone": "(336) 709-8125",
+    "servicePhone": "800277768"
+  },
+  "birthday": "1997-06-13T01:53:38.517Z",
+  "ip": "69.17.19.137",
+  "foo": "bar",
+  "profile": {
+    "about": "Sakniho uza cehok gaveaj gab so jojov fatlu fevu gezo suomaju te civpa. Dastiavu edewop wuotew pib kutga okubumad vuca mablezu dalzo zivasev fe irmas hinuw rosbuzdis. Rigwe zami zut logudepow lapace oc zeazira og boscisuk odibokse wulomup ezotiogo gi. Tos kowzotod etbal ejeciktac suja vu fo teco go meba kamarjuk ig hu.",
+    "bio": "Jetkeh elke ba wug wid vab guzfuhpen zatucuna labanu tuhe he re zofuz cohu bej cijafidoc. Obi oz huc ubilafo meetuhaf ujhumore aroem fig zim ticila nappof mumdumon obi. Ja nos rujri ca ecidaloc sa malo la mopedoz heppude vor baccujje. Lifomnaj ewilu ga temasivaf bekaw bigzus rolic ceglu al moorisa vovam ke ripur kisricde arwagof gagbiwi."
+  },
+  "apiKey": "fc145a1104bd5b9d878df2a0c62af80722016a0d9de9aba1fe739e3687b855cb",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}

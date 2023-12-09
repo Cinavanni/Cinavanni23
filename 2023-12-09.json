@@ -1,0 +1,26 @@
+{
+  "name": "Mamie Moore",
+  "age": 25,
+  "address": {
+    "street": "Iwakon Manor",
+    "city": "Jehajhe",
+    "state": "NH",
+    "zip": "48950"
+  },
+  "contact": {
+    "phone": "(885) 939-9036",
+    "servicePhone": "800899158"
+  },
+  "birthday": "1971-05-06T00:37:47.592Z",
+  "ip": "1.251.134.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Invifad fe uliez ewo wefreosa og jezuze tawikip co bu kuajdac dev rezhuclug. Ho wecengu foitati fivgu akjevu lolulki er net ji sejaj irkuj pesauj ve gupal. Kivanul latil oj ralutsa fifenho evazaav ob obomuki guhoc ehu ablahjol oniz niguni vim kihot.",
+    "bio": "Uwpoma kav kop ned vissur cos vonisizu rejomow hoila kiru pesurauf ogu. Zu rauci losu nu bewlovoh ode kocize lavzapu ud tej ucage cu hecvos. Zohafu sumge tafpa kacdo viev umwehe siweuwe civihap delhovzi muecer nuj isoowe tutnic wuw ru. Mucol horwep wizzal awaupi firifir fuvkovdu jer tal le zomorwa na elakuise irrek uzetacda wef osocaira simapu. Jecdiweh cehmergi ukalocaf votcicif tuvadipi vete jahcunez se te mur emokilti wuk sisic adefe zibfe rotudzu. Kah nimpouve uziegte di sa ogmafo sofmivhe ziwceos wumfaw civaso povlutfa zubosiw ru wojegpil pafiwaf li lo. Lagvusud ufe kef jipilko sikviwce wi sonjabef uzhibba bucoj amoec dinjuma sizuhni tevatof papjom."
+  },
+  "apiKey": "3ee0c99d7d564e386231ddb2b3e5ac710fdbb30c21888a376ba82499d162de89",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}

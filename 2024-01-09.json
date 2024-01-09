@@ -1,0 +1,26 @@
+{
+  "name": "Mae Jones",
+  "age": 18,
+  "address": {
+    "street": "Wotifo Street",
+    "city": "Tavogwu",
+    "state": "IA",
+    "zip": "77905"
+  },
+  "contact": {
+    "phone": "(946) 251-3351",
+    "servicePhone": "800361297"
+  },
+  "birthday": "1993-09-17T14:24:12.713Z",
+  "ip": "58.62.177.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Itarrip rumi zazen zuvku jo netnivur ibizago popto gol cagvojsu pasu fodmas oro ho. Tir tusuz hodnuw nuira cagaji rupmumwe dubfu vecmozoco upuso ivu rofdi no watam. Lopfa avu gakefo ijoto coja ga med ba govowe tu aniahoti izuzoba peliw sam fe cipocra.",
+    "bio": "Tirla ipu rojadgoj bobgutrem zol fovto ok laderoj bawavra eteno werumtat nebci laroda uh live riw juzuja ze. Cetrujse tijren irdezu cabdehe ipogo wa zuci onoba siugeuko besomi awpi zegopso. Joncem juvzofuz ranjacet sidupzas vo asoeceire ekoini hus nokbaw muzbegnir ukunuste ufecim dico gow epubihep afapogbih ibreuka. Kup zubi losvow ari ivisuufe oduh mijbijo ba vakium cudkumim eha wu bilu pihavuk gocsulu numniti cezovza. Vulubu iraze teilgac foz rotoz raw imaras berwilas kisjow tatu lum use vo to ke celuhul kinekeh. Wi fibiw dicuvput icvowvuk sufma dep ezguf rokapfa cehve siwpaljeh laltuvub ditatuvu bonum. Opeobeno papmusij natotahe dohpumus pamcodse tocar kivcu ekte gogratlu wigjibra tedu sub maisof ra buhohvo cakwewes."
+  },
+  "apiKey": "bd12858726930b06cfccb1f9f6a870d3719566e4fdd81584e4208f57ac54e165",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}

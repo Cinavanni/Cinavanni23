@@ -1,0 +1,26 @@
+{
+  "name": "Bryan Montgomery",
+  "age": 34,
+  "address": {
+    "street": "Lisga View",
+    "city": "Livusmo",
+    "state": "TN",
+    "zip": "36776"
+  },
+  "contact": {
+    "phone": "(304) 537-3529",
+    "servicePhone": "800773163"
+  },
+  "birthday": "1987-11-17T20:22:13.798Z",
+  "ip": "57.223.115.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze itizzow hicuwi ibu kahegidih edlojbi binica hu ci vovhoruw sasijagi pikese. Pumocot ilcip ga jufacih zijemwaz jizuvguv liz buw kus zopjefkez ehdek ci jofgojfol. Cacdobi semsi ohecu ga fodueto vutham bowow riwvuvow bim oca hacosa idon onjofi gewohdow. Mafdudred wafu piho sil pozrup bupuzbi basa iknej pabviv kavemwi ekehuncun pogoju. Otaopehor asouwe wudit za it juwaphe seekzoz de eflahnub jeufo echumtuj fecda ra duik set jev cebu.",
+    "bio": "Jiv jumvovuc epdihbu sawo vanacace du mufizohi ziszivka asi moh nazukvi ej alofoak. Gihodij ja tokeg hepador ha igwewzut cumnomre jeed di panpiv kaep na duncek me. Aniopane leuwu ru hedgi fohutumut jaw gugijul ebmu bilepume pijufi waj puttu cupespuz felaocu bizuhu fotta ditumkot josmecbaz. Pal vonunog sujbudhon ow siljonge vahes cod jal zeim zab nil jo jeuvita vehiddo hudo weifkun. Wivfuzho mit kipesnef bitgobe rifeci mijodu jamusahu gimehiz ankozic notfu zicwuslun eke tud. Kud anisaze fuf osar utfodatu ana iwo mi zupteeh sizev no nos ogibemde ba loreor dokah. Miwem puli wuptit sulmucpug wolum mibapfuc jedep fo hofpupem zode zerelab heugo cujeto buwmedi jep."
+  },
+  "apiKey": "7c2c09056dff6c237d89d36d6354f10a7dae9826956c09341897a0498b11be2f",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}

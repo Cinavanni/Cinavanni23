@@ -1,0 +1,26 @@
+{
+  "name": "Nina Hayes",
+  "age": 29,
+  "address": {
+    "street": "Jokori Avenue",
+    "city": "Cidusla",
+    "state": "NV",
+    "zip": "37679"
+  },
+  "contact": {
+    "phone": "(543) 843-8061",
+    "servicePhone": "800264946"
+  },
+  "birthday": "1993-12-27T13:12:43.821Z",
+  "ip": "240.133.138.119",
+  "foo": "bar",
+  "profile": {
+    "about": "Pilnerur pewdukgut dambu fokkuzad ozeuz ipiih upo uzwucdul abuuzage bij go uhinopan uma hehpadjow. Imuga odbahgud ne wev kuha owulu hek ladabaw cu zi uv va huksubug jivev ja vetreh roslujru lukuhes. Riszef ja ro wafcaeco ejo ij me hoc edoguulu unonot ju kegmel muz so fubacpuw ho kisbi ja. Pujluwo gun zirevset tagdinva tulofnis vifafror raret pufkon re kaj da zeh lizvimiw ke wel not fi.",
+    "bio": "Upu wopgece jor dula cowu dik piced ihmug tumdazesa ejzurap odu ikije do gugne gejwij dab ahaufiopa. Acopociwa civwew ocezicuz ved nace altaaki us zomvu nutper dabid ut cakranbew lok wan. Lirjoune himev kurnow gapom utpuj omvatful gugo jek guknuwun ra gidpeh cu ga haksiczi mu foviot."
+  },
+  "apiKey": "dac050a92ce4681e69cafeff7165daba538670f39bd318ebdcaf79ec2aca7795",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}

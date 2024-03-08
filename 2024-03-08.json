@@ -1,0 +1,26 @@
+{
+  "name": "Randy Stokes",
+  "age": 45,
+  "address": {
+    "street": "Todo Key",
+    "city": "Favpolri",
+    "state": "NM",
+    "zip": "79088"
+  },
+  "contact": {
+    "phone": "(322) 541-4528",
+    "servicePhone": "800381164"
+  },
+  "birthday": "1993-01-13T11:12:46.170Z",
+  "ip": "43.246.227.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Inzi duk famegnin nug joob vo fihpalejo ejihu omotos ervug ujcip cesdac dem vadowvo. Fiumujat cohfobez leib cevopos gosredi sorimoguc zusa fofu sesdu pi ofmi liffiz uso durkel ograroc ijulotuz izwirke eti. Tegsileg na famotgid hi buju wul kuf dihijsim riwrevib uho hehir zi botsaprog anu.",
+    "bio": "Nivumna ocijiw sozi forfoj zuhsoh lop wik rojrari dahufanu kij zevpazu kuahkoc. Vukefe varande nimvukjop gelovutop coke amode he wuosu ime kewba sacsual foad. Okbakhor unefiuti vejo cogifova rihafmu zoltij juj acjo aka oceonisij ra fi conafaka wogivli. Bepogaofi fu wi nahube pu va adizi jinkowgiz hiltural dehdoczo nuwecof helos fabirid ma raf bocolkil. Cugehras web voc pihir fuoci kun zespe ju nujila nosofdal pohunmul in vabod iroguw we fi. Sepu wejeere ezen si avewve unaeki egirefbe tizsozrej metime wiw tiil tiupa zioclan unfi api. Ari waasu umkal ufanju defoce sobizwe sajmoevu zeumhav ragum hoj rovuzdo iz giggit ket tacme cewdosu."
+  },
+  "apiKey": "9a02ee9d86add20ae4a8be1d6e1da49a385df329c3cc5b6673b1797d3e7150fb",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}

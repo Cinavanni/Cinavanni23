@@ -1,0 +1,26 @@
+{
+  "name": "Winifred Powell",
+  "age": 51,
+  "address": {
+    "street": "Wolko Center",
+    "city": "Tipwoez",
+    "state": "HI",
+    "zip": "67987"
+  },
+  "contact": {
+    "phone": "(535) 780-5656",
+    "servicePhone": "800737125"
+  },
+  "birthday": "1987-02-09T20:22:10.404Z",
+  "ip": "147.17.101.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Decapami wis soj nu ned fuk kempuz noeho donmuji jut unzor ro vozej ibi ca. Rin javon jol lup cup us hu mupbiram lunke muuf la lubpiro se teaso numjetov jam fane. Uke ozdof uguel pu ruwuh mak fozgetku re udasivi dumgedile fimjosri cisudus.",
+    "bio": "Baogwah wipub re emohij vagwoud acineg sav dahotop azgedtej saz bacoci tu durpuzfu fir. Fu tuse misetmi ebarigiv pivgo famu jadukfa op atu ubu mehsamat wezare losuse. Efara hik hudo balgovo cen ewika dapegpem vooh wungikuj cup fi paz utoaw ko. Ebi vi rej tos guvideg wi ce vefubevu tufikdu pevih aj lumasa lonezo weis keagawe ninnad ucane ne."
+  },
+  "apiKey": "f8c7aaecc0bae5b611cd1203c9d08b9ccb4e36003e37baf77fcbf4fa9be11657",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}

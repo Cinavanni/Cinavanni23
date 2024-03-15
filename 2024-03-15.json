@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Buchanan",
+  "age": 47,
+  "address": {
+    "street": "Ledko Point",
+    "city": "Kezzodal",
+    "state": "MN",
+    "zip": "26958"
+  },
+  "contact": {
+    "phone": "(970) 692-8091",
+    "servicePhone": "800433687"
+  },
+  "birthday": "1985-07-17T01:10:41.046Z",
+  "ip": "173.153.148.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Rehepa ropalif sumine faf robu zegmufke var repojde war paf wat foilo. Uma vowrafli tenib daumiiwo kavuveg onbaoda ricusfe anawere bevce hecapto juvho nag ir nur salgejoc. Gec ceapziz uj cebe ha ewamagno nonef ruwufja fi cabil se uha awo ve.",
+    "bio": "Om vihuta neh fiwof kulhul fog seemues ronmu ku dinlugci wadusbe di uhvozzo wifpazu bed sazakno. Po ok koj pat mikle buroej mom puiv cerieso beipvas kepani li burvukow. He rewid diopah lagpel sozfam mer ru veoruj zihabjil jo nuh wamzijwu ihlepme fiodsa laczup il."
+  },
+  "apiKey": "f73a5d5e4b4563d3c18d89164abc0af59987895705b65f905a4ff0aba2b87790",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}

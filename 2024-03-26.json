@@ -1,0 +1,26 @@
+{
+  "name": "Marc McDonald",
+  "age": 57,
+  "address": {
+    "street": "Ozaroj Circle",
+    "city": "Cankerzo",
+    "state": "CA",
+    "zip": "36115"
+  },
+  "contact": {
+    "phone": "(882) 903-7998",
+    "servicePhone": "800277786"
+  },
+  "birthday": "1977-04-11T15:30:54.422Z",
+  "ip": "104.112.111.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo jajemioji pik ga hurvo lofi igbecto revapejan ovelalnil bakcu kis li kavnahjor co. Hac punnoz api tacosup odu jur toerhe aru puisojo facrag adouvesom decena ronav omarame hegem sizsos. Ga icteble abi wig tezjit lep ji mor agetocun izotif becuhpus tezi. Mufgaomi vojhum widzed pupoge vef utig ro omu fetam iboti bod dekiwbuv du. Jum kurov gomsomam iha hoguf homolo ane wa vowiktoz go comsav rij.",
+    "bio": "Wakboh decsihis miwaipe an bilejuc nu di amu sewbur uhvacbo gipzu rutvoho. Dezon bectu nac co tohakko winu poguc jo valbos boj rom wa wew gipnadam me. Mewisi vidliiwa mupin ras guk ijasoz ogiomamih sopeflen jebtoguv abovuf fuj ga tep zace faca heba. Buev ba lejowu lihihpe cat vobo to dij warvaehe opma woboat tifzeha mi soptu ekapuvve mem."
+  },
+  "apiKey": "9312d45c6989185b69becb2e1da3da6d92d517a71a290a5e3911142d69c9cffa",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
